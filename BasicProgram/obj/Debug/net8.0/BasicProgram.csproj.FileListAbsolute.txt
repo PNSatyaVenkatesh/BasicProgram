@@ -1,0 +1,14 @@
+C:\Users\Satya Hero\source\repos\BasicProgram\BasicProgram\bin\Debug\net8.0\BasicProgram.exe
+C:\Users\Satya Hero\source\repos\BasicProgram\BasicProgram\bin\Debug\net8.0\BasicProgram.deps.json
+C:\Users\Satya Hero\source\repos\BasicProgram\BasicProgram\bin\Debug\net8.0\BasicProgram.runtimeconfig.json
+C:\Users\Satya Hero\source\repos\BasicProgram\BasicProgram\bin\Debug\net8.0\BasicProgram.dll
+C:\Users\Satya Hero\source\repos\BasicProgram\BasicProgram\bin\Debug\net8.0\BasicProgram.pdb
+C:\Users\Satya Hero\source\repos\BasicProgram\BasicProgram\obj\Debug\net8.0\BasicProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Satya Hero\source\repos\BasicProgram\BasicProgram\obj\Debug\net8.0\BasicProgram.AssemblyInfoInputs.cache
+C:\Users\Satya Hero\source\repos\BasicProgram\BasicProgram\obj\Debug\net8.0\BasicProgram.AssemblyInfo.cs
+C:\Users\Satya Hero\source\repos\BasicProgram\BasicProgram\obj\Debug\net8.0\BasicProgram.csproj.CoreCompileInputs.cache
+C:\Users\Satya Hero\source\repos\BasicProgram\BasicProgram\obj\Debug\net8.0\BasicProgram.dll
+C:\Users\Satya Hero\source\repos\BasicProgram\BasicProgram\obj\Debug\net8.0\refint\BasicProgram.dll
+C:\Users\Satya Hero\source\repos\BasicProgram\BasicProgram\obj\Debug\net8.0\BasicProgram.pdb
+C:\Users\Satya Hero\source\repos\BasicProgram\BasicProgram\obj\Debug\net8.0\BasicProgram.genruntimeconfig.cache
+C:\Users\Satya Hero\source\repos\BasicProgram\BasicProgram\obj\Debug\net8.0\ref\BasicProgram.dll
