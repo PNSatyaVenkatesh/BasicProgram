@@ -1,4 +1,4 @@
-# Basic Programs using C# language (for Console Application.
+# Basic Programs using C# language (for Console Application).
 #Folders:
 BasicProgram.csproj  
 BasicProgram.csproj.user  
