@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace BasicProgram
 {
-    enum Month{
+    enum Month
+    {
         Jan,
         Feb,
         Mar,
@@ -22,7 +23,7 @@ namespace BasicProgram
     }
     internal class Type
     {
-        static void main(String[] args)
+        static void Main(String[] args)
         {
             //Operators task = new Operators();
             //task.Task1();
@@ -91,14 +92,14 @@ namespace BasicProgram
             Console.Write("Enter a value : ");
             int x = Convert.ToInt32(Console.ReadLine());
             if (x % 3 == 0)
-                Console.WriteLine("Fizz");           
+                Console.WriteLine("Fizz");
         }
 
         static void Task6()
         {
             Console.Write("Enter a value : ");
             int x = Convert.ToInt32(Console.ReadLine());
-            if ((x % 3 == 0)&&(x % 5==0))
+            if ((x % 3 == 0) && (x % 5 == 0))
                 Console.WriteLine("FizzBuzz");
 
         }

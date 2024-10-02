@@ -7,6 +7,7 @@ C:\Users\Satya Hero\source\repos\BasicProgram\BasicProgram\obj\Debug\net8.0\Basi
 C:\Users\Satya Hero\source\repos\BasicProgram\BasicProgram\obj\Debug\net8.0\BasicProgram.AssemblyInfoInputs.cache
 C:\Users\Satya Hero\source\repos\BasicProgram\BasicProgram\obj\Debug\net8.0\BasicProgram.AssemblyInfo.cs
 C:\Users\Satya Hero\source\repos\BasicProgram\BasicProgram\obj\Debug\net8.0\BasicProgram.csproj.CoreCompileInputs.cache
+C:\Users\Satya Hero\source\repos\BasicProgram\BasicProgram\obj\Debug\net8.0\BasicProgram.sourcelink.json
 C:\Users\Satya Hero\source\repos\BasicProgram\BasicProgram\obj\Debug\net8.0\BasicProgram.dll
 C:\Users\Satya Hero\source\repos\BasicProgram\BasicProgram\obj\Debug\net8.0\refint\BasicProgram.dll
 C:\Users\Satya Hero\source\repos\BasicProgram\BasicProgram\obj\Debug\net8.0\BasicProgram.pdb
